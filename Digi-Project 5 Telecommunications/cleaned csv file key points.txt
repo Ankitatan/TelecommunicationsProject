@@ -1,0 +1,21 @@
+This cleaned version includes:
+
+Trimmed column names
+
+Duplicate rows removed
+
+✅ What has been done:
+
+Column names standardized
+
+Duplicate records removed
+
+Missing values handled:
+
+Numeric → replaced with mean
+
+Categorical → replaced with mode
+
+Outliers treated using IQR clipping
+
+Dataset saved as a clean, analysis-ready file
